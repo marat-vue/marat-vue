@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Lexify</title>
+  <desc id="desc">Языки народов России. Карточки букв и открытая книга.</desc>
+  <rect width="1280" height="240" rx="10" fill="#16201F"/>
+  <path d="M40 51H64" stroke="#B3D7CA" stroke-width="2"/>
+  <text x="76" y="56" fill="#9BB6AE" font-family="Consolas, monospace" font-size="13" letter-spacing="2">04 / EDUCATION</text>
+  <text x="37" y="135" fill="#EEF3EB" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="64" letter-spacing="-1.8">Lexify</text>
+  <text x="41" y="190" fill="#A7BFB5" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Язык. Культура. Знание.</text>
+  <g transform="translate(475 0) scale(1.12)">
+  <rect x="442" y="47" width="65" height="73" rx="7" stroke="#B3D7CA" stroke-opacity=".4"/>
+  <rect x="520" y="47" width="65" height="73" rx="7" fill="#B3D7CA" fill-opacity=".12" stroke="#B3D7CA" stroke-opacity=".65"/>
+  <text x="474" y="96" text-anchor="middle" fill="#B3D7CA" font-family="Georgia, serif" font-size="39">А</text>
+  <text x="552" y="96" text-anchor="middle" fill="#D2E9DC" font-family="Georgia, serif" font-size="39">Ә</text>
+  <path d="M442 144C466 137 490 137 514 146C538 137 562 137 586 144V177C562 170 538 170 514 179C490 170 466 170 442 177Z" stroke="#B3D7CA" stroke-opacity=".65"/>
+  <path d="M514 146V179" stroke="#B3D7CA" stroke-opacity=".65"/>
+  </g>
+  <path d="M873 34V206" stroke="#A7BFB5" stroke-opacity=".12"/>
+  <rect x=".5" y=".5" width="1279" height="239" rx="9.5" stroke="#A7BFB5" stroke-opacity=".15"/>
+</svg>

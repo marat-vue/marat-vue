@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Марат Магомедов — веб-разработчик</title>
+  <desc id="desc">Графитовая обложка с зелёным геометрическим знаком. Vue, Nuxt, TypeScript.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C7DFD1" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="panel" x1="795" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172820"/><stop offset="1" stop-color="#101916"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="884" y1="120" x2="1120" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7F8B9"/><stop offset="1" stop-color="#70B899"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1280" height="440" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="440" fill="#101715"/>
+    <path d="M794 0H1280V440H794Z" fill="url(#panel)"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <path d="M794 0V440" stroke="#C7DFD1" stroke-opacity=".12"/>
+    <path d="M56 73H84" stroke="#C9EDB0" stroke-width="3"/>
+    <text x="98" y="78" fill="#BDD2C5" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2.4">WEB DEVELOPER / MARAT-VUE</text>
+    <g fill="#F0F4ED" font-family="'Segoe UI', Arial, sans-serif" font-size="91" font-weight="650" letter-spacing="-3">
+      <text x="52" y="187">Марат</text>
+      <text x="50" y="285">Магомедов<tspan fill="#C9EDB0">.</tspan></text>
+    </g>
+    <text x="56" y="337" fill="#A6B9AD" font-family="'Segoe UI', Arial, sans-serif" font-size="21">Веб-приложения с вниманием к деталям</text>
+    <path d="M56 376H738" stroke="#C7DFD1" stroke-opacity=".16"/>
+    <text x="56" y="405" fill="#D8E7DB" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="1">VUE</text>
+    <circle cx="106" cy="400" r="2" fill="#648473"/>
+    <text x="125" y="405" fill="#D8E7DB" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="1">NUXT</text>
+    <circle cx="184" cy="400" r="2" fill="#648473"/>
+    <text x="203" y="405" fill="#D8E7DB" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="1">TYPESCRIPT</text>
+    <g stroke="#90B7A0" stroke-opacity=".17">
+      <circle cx="1036" cy="211" r="151"/><circle cx="1036" cy="211" r="111"/>
+      <path d="M850 211H1222M1036 25V397M926 101L1146 321M1146 101L926 321"/>
+    </g>
+    <path d="M890 130H948L1036 282L1124 130H1182L1036 382Z" fill="#C9EDB0" fill-opacity=".04"/>
+    <path d="M900 103H954L1036 245L1118 103H1172L1036 338Z" fill="url(#mark)"/>
+    <path d="M954 103H994L1036 176L1078 103H1118L1036 245Z" fill="#172820"/>
+    <path d="M855 70V57H868M1204 70V57H1191M855 354V367H868M1204 354V367H1191" stroke="#C9EDB0" stroke-opacity=".6"/>
+    <text x="1036" y="406" text-anchor="middle" fill="#A6BDAE" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3">INTERFACE / LOGIC / DETAILS</text>
+    <rect x=".5" y=".5" width="1279" height="439" rx="15.5" stroke="#C7DFD1" stroke-opacity=".14"/>
+  </g>
+</svg>

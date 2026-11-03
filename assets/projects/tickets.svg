@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Tickets</title>
+  <desc id="desc">Театральные билеты. Схема зрительного зала с выбранными местами.</desc>
+  <defs><rect id="seat" width="20" height="16" rx="4"/></defs>
+  <rect width="1280" height="240" rx="10" fill="#1D1B23"/>
+  <path d="M40 51H64" stroke="#C5BCE3" stroke-width="2"/>
+  <text x="76" y="56" fill="#AAA4BB" font-family="Consolas, monospace" font-size="13" letter-spacing="2">03 / BOOKING</text>
+  <text x="37" y="135" fill="#F1EDF6" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="64" letter-spacing="-1.8">Tickets</text>
+  <text x="41" y="190" fill="#B5AEC5" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Ваше место в театре</text>
+  <g transform="translate(475 0) scale(1.12)">
+  <path d="M449 56Q516 38 583 56" stroke="#C5BCE3" stroke-opacity=".65" stroke-width="2"/>
+  <g fill="#655D7A">
+    <use href="#seat" x="462" y="79"/><use href="#seat" x="490" y="79"/><use href="#seat" x="518" y="79"/><use href="#seat" x="546" y="79"/>
+    <use href="#seat" x="448" y="106"/><use href="#seat" x="476" y="106"/><use href="#seat" x="504" y="106"/><use href="#seat" x="532" y="106"/><use href="#seat" x="560" y="106"/>
+    <use href="#seat" x="434" y="133"/><use href="#seat" x="462" y="133"/><use href="#seat" x="490" y="133"/><use href="#seat" x="518" y="133"/><use href="#seat" x="546" y="133"/><use href="#seat" x="574" y="133"/>
+    <use href="#seat" x="434" y="160"/><use href="#seat" x="462" y="160"/><use href="#seat" x="490" y="160"/><use href="#seat" x="518" y="160"/><use href="#seat" x="546" y="160"/><use href="#seat" x="574" y="160"/>
+  </g>
+  <g fill="#D6CAEF"><use href="#seat" x="504" y="106"/><use href="#seat" x="532" y="106"/></g>
+  </g>
+  <path d="M873 34V206" stroke="#B5AEC5" stroke-opacity=".12"/>
+  <rect x=".5" y=".5" width="1279" height="239" rx="9.5" stroke="#B5AEC5" stroke-opacity=".15"/>
+</svg>

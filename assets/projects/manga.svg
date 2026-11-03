@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Информационный мир</title>
+  <desc id="desc">Авторская манга о кибербезопасности. Графические панели с символом защищённости.</desc>
+  <rect width="1280" height="240" rx="10" fill="#172026"/>
+  <path d="M40 51H64" stroke="#B6CFDF" stroke-width="2"/>
+  <text x="76" y="56" fill="#A3B6C2" font-family="Consolas, monospace" font-size="13" letter-spacing="2">05 / INTERACTIVE STORY</text>
+  <text x="37" y="135" fill="#EDF2F4" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="58" letter-spacing="-1.7">Информационный мир</text>
+  <text x="41" y="190" fill="#ACBDC8" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Кибербезопасность через историю</text>
+  <path d="M873 34V206" stroke="#ACBDC8" stroke-opacity=".12"/>
+  <g stroke="#B6CFDF" stroke-opacity=".45">
+    <path d="M920 41H1007L991 119H904ZM1021 41H1238L1222 119H1005ZM904 133H1121L1105 200H888ZM1135 133H1222L1206 200H1119Z"/>
+    <path d="M1051 60H1195M1047 72H1157M1043 84H1181M923 158H1069M919 170H1033" stroke-opacity=".25"/>
+  </g>
+  <path d="M961 61L980 68V85C980 97 961 106 961 106C961 106 942 97 942 85V68Z" fill="#B6CFDF" fill-opacity=".12" stroke="#B6CFDF"/>
+  <path d="M951 83L958 90L971 76" stroke="#D3E4ED" stroke-width="2"/>
+  <path d="M1154 153L1170 166L1154 179M1181 153V179" stroke="#B6CFDF" stroke-width="2"/>
+  <rect x=".5" y=".5" width="1279" height="239" rx="9.5" stroke="#ACBDC8" stroke-opacity=".15"/>
+</svg>

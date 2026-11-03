@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Vivien</title>
+  <desc id="desc">Интернет-магазин женской одежды. Геометрическая витрина в тёплых оттенках.</desc>
+  <rect width="1280" height="240" rx="10" fill="#201B1A"/>
+  <path d="M40 51H64" stroke="#D7BBB0" stroke-width="2"/>
+  <text x="76" y="56" fill="#B8A6A0" font-family="Consolas, monospace" font-size="13" letter-spacing="2">02 / E-COMMERCE</text>
+  <text x="37" y="135" fill="#F3ECE7" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1.5">Vivien</text>
+  <text x="41" y="190" fill="#BFAEA6" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Одежда. Стиль. Выбор.</text>
+  <g transform="translate(475 0) scale(1.12)" stroke="#D7BBB0" stroke-opacity=".75">
+    <path d="M437 170V94C437 53 485 53 485 94V170Z"/>
+    <path d="M492 170V94C492 53 540 53 540 94V170Z" fill="#D7BBB0" fill-opacity=".12"/>
+    <path d="M547 170V94C547 53 595 53 595 94V170Z"/>
+    <path d="M429 178H603" stroke-opacity=".3"/>
+  </g>
+  <path d="M873 34V206" stroke="#BFAEA6" stroke-opacity=".12"/>
+  <rect x=".5" y=".5" width="1279" height="239" rx="9.5" stroke="#BFAEA6" stroke-opacity=".15"/>
+</svg>
